@@ -31,5 +31,5 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'faraday_middleware'
   gem.add_runtime_dependency 'rash'
   gem.add_runtime_dependency 'rake'
-  gem.add_runtime_dependency 'addressable'
+  gem.add_runtime_dependency 'addressable', '~> 2.2.8'
 end
